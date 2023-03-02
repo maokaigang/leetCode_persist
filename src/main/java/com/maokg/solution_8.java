@@ -36,9 +36,12 @@ public class solution_8 {
         }
 
     }
+
+
     public static void main(String[] args) {
         String s ="words and 987";
         solution_8 solution8 = new solution_8();
         System.out.println(solution8.myAtoi(s));
+
     }
 }
